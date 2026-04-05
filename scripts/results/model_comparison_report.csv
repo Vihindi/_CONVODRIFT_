@@ -1,0 +1,5 @@
+Model,Stability (Consistency),Sensitivity (Pairwise Disagreement),Avg Style Entropy,Avg Formal Rate
+Haiku,0.9900,0.5333,0.8530,0.5420
+gemini-flash,0.9420,0.5040,0.8680,,0.5810
+GPT-5-mini,0.9560,0.4417,0.8860,0.6042
+GPT-5,0.9560,0.4417,0.8843,0.6042

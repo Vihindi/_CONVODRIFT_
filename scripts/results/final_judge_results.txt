@@ -1,0 +1,2 @@
+Drift Alpha: 0.7651761277492272
+Direction Alpha: 0.7851561787332381
